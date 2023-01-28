@@ -8,7 +8,9 @@ Additionally, The Horiseon Marketing Company webpage  wanted to include a naviga
 
 I learned how to implement semantic elements and when to use '<div>' elements, which are not semantic, but useful for stlying purposes.
 
-I also had to create a new repository for this project, as I had deploying issues. You have find the original repository, titled Horiseon-Marketing-Main, with all commits at this [link]().
+*NOTE: HoriseonMarketing is the new repository I created for this project, as I had deploying issues with the original repository.
+
+You may find the original repository, titled Horiseon-Marketing-Main, with all commits for the HTML and CSS files at this [link](https://github.com/victoriamcn/Horiseon-Marketing-Main).*
 
 ## Table of Contents
 
@@ -36,7 +38,7 @@ Use this webpage and its code as an example of best practices for semantics in H
 
 Step-by-step instructions on how to view my HTML code on your local computer:
 
-1. Clone the repository labeled [*HoriseonMarketing*]() to your local computer.
+1. Clone the repository labeled [*HoriseonMarketing*](https://github.com/victoriamcn/HoriseonMarketing) to your local computer.
 2. Use the command line to open the directory.
 3. Double click the index.html file to open it on your preferred browser. Right click to inspect element.
 4. Or you may open the repository on VS Code to View.
@@ -54,7 +56,7 @@ Step-by-step instructions on how to view my HTML code on your local computer:
 
 ## License
 
-Please see the license file at the link [here]().
+Please see the license file at the link [here](https://github.com/victoriamcn/HoriseonMarketing/blob/main/LICENSE).
 
 ## Tech Used
 - GitLab
