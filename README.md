@@ -6,7 +6,7 @@ The client, Horiseon Marketing Company, wanted codebase that follows accessibili
 
 Additionally, The Horiseon Marketing Company webpage  wanted to include a navigation bar, a header image, and cards with text and images at the bottom of the page.
 
-I learned how to implement semantic elements and when to use '<div>' elements, which are not semantic, but useful for stlying purposes.
+I learned how to implement semantic elements and when to use 'div' elements, which are not semantic, but useful for stlying purposes.
 
 *NOTE: HoriseonMarketing is the new repository I created for this project, as I had deploying issues with the original repository.
 
