@@ -1,5 +1,7 @@
 # ARCHIVED - Horiseon Marketing
 
+- Note: This was one of the first homework challenges for my Full Stack certification and is no longer being updated. One thing I would do differently is fix my `.gitignore` file to include all local stores.
+
 ## Description
 
 The client, Horiseon Marketing Company, wanted codebase that follows accessibility standards so that their site is optimized for search engines.
